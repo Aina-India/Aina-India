@@ -1,62 +1,109 @@
 <div align="center">
-  <img src="cockroach-flag.png" width="110" alt="Cockroach with raised fist — May 2026">
-  <br><br>
 
-  ### Public data. Made public.
+<img src="cockroach.png" width="130" alt="May 2026">
 
-  *India's numbers are out there — in Budget documents, World Inequality Lab papers,*
-  *RTI responses, court records. This account exists to make them harder to ignore.*
+<br>
+
+![](https://img.shields.io/badge/AINA_INDIA-CIVIC_DATA-0d1117?style=for-the-badge&labelColor=e8650a&color=0d1117)
+
+<br>
+
+**Public data. Made public.**
+
+*India's numbers are buried in Budget documents, World Inequality Lab papers, RTI responses.*
+*This account makes them harder to ignore.*
+
+<br>
+
+![](https://img.shields.io/badge/Updated-May_2026-1a4480?style=flat-square)
+![](https://img.shields.io/badge/Sources-Public_only-16a34a?style=flat-square)
+![](https://img.shields.io/badge/Tracking-None-6b7280?style=flat-square)
+![](https://img.shields.io/badge/Ads-None-6b7280?style=flat-square)
 
 </div>
 
 ---
 
-## What's here
+## The number that started this
 
-**[India: Income, Tax & Where It Goes]()**
-&nbsp;&nbsp;→ Income distribution by percentile, who pays the taxes, where the money actually goes.
-&nbsp;&nbsp;Source: World Inequality Lab 2022–23 · Union Budget 2025–26 · Income Tax Dept Statistics
+```
+Who earns what — India 2022–23 (World Inequality Lab)
 
-**[RTI Setu]()**
-&nbsp;&nbsp;→ Chrome extension. Describe your issue in plain language → AI drafts the RTI → auto-fills rtionline.gov.in.
-&nbsp;&nbsp;For filing Right to Information requests without wrestling with the government's UX.
+500 million people  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15% of national income
+400 million people  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27% of national income
+ 90 million people  █████████████████████████░░░░░░░░░░░░░░░░  57% of national income
+─────────────────────────────────────────────────────────────────────────────────────
+ 10 million people  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  22% of national income
+                    └── the top 1% alone, out-earning the bottom 500 million combined
+```
+
+*To earn the average Indian income, you need to out-earn 90% of India.*
+*Not because the average is high. Because the distribution is that skewed.*
 
 ---
 
-## One number
+## Projects
 
-> You need to earn more than **90% of India** to make the average Indian income.
-> Not because the average is high.
-> Because the distribution is that skewed.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-— World Inequality Lab, 2022–23
+### 📊 India: Income, Tax & Where It Goes
+
+Interactive dashboard showing India's income distribution by percentile, who pays the taxes, and where central revenue actually goes.
+
+![](https://img.shields.io/badge/Source-World_Inequality_Lab-1a4480?style=flat-square)
+![](https://img.shields.io/badge/Source-Union_Budget-e8650a?style=flat-square)
+![](https://img.shields.io/badge/Source-IT_Dept_Statistics-16a34a?style=flat-square)
+
+**[→ View site](#)** · **[→ View data](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🪲 RTI Setu
+
+Chrome extension. Describe your civic issue → AI drafts the RTI → auto-fills rtionline.gov.in.
+
+For filing Right to Information requests without wrestling with the government's UX.
+
+![](https://img.shields.io/badge/Target-Central_Govt_RTIs-1a4480?style=flat-square)
+![](https://img.shields.io/badge/Fee-₹10-e8650a?style=flat-square)
+![](https://img.shields.io/badge/Storage-None-16a34a?style=flat-square)
+
+**[→ Install](#)** · **[→ Source](#)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Data sources
 
-Everything here is sourced from public documents. If a number is here, the source is cited. If the source updates, the number updates.
-
-| Source | What it covers |
-|--------|---------------|
-| [World Inequality Lab](https://wid.world/country/india) | Income and wealth distribution by percentile |
-| [Union Budget](https://indiabudget.gov.in) | Tax composition — who pays what |
-| [Income Tax Dept Statistics](https://incometaxindia.gov.in) | Who files, who actually pays income tax |
-| [PLFS](https://mospi.gov.in) | Employment, labour force, gig economy |
-| [RTI Act 2005](https://rti.gov.in) | The law that makes the rest of this possible |
+| Source | What it tracks | Updates |
+|--------|---------------|---------|
+| [World Inequality Lab](https://wid.world/country/india) | Income & wealth by percentile | Annual |
+| [Union Budget](https://indiabudget.gov.in) | Tax composition, receipts, expenditure | Feb 1 every year |
+| [Income Tax Dept](https://incometaxindia.gov.in) | Who files, who actually pays | ~18 month lag |
+| [PLFS](https://mospi.gov.in) | Employment, labour force, gig economy | Annual (Oct–Nov) |
+| [RTI Act 2005](https://rti.gov.in) | The law that makes the rest possible | — |
 
 ---
 
 ## Philosophy
 
-No opinions. No party. No ideology.
+No opinions. No party. No ideology. If a number is here, the source is cited and the methodology is visible. If something is wrong, open an issue.
 
-The data is the argument. The sources are cited. The methodology is visible. If something here is wrong, open an issue.
-
-The cockroach is the current moment — May 2026. It will change when the moment does.
+The image at the top reflects the current moment. It changes when the moment does.
 
 ---
 
 <div align="center">
-  <sub>Updated May 2026 &nbsp;·&nbsp; All data from public sources &nbsp;·&nbsp; No tracking &nbsp;·&nbsp; No ads &nbsp;·&nbsp; No cookies</sub>
+  <sub>
+    All data from public sources &nbsp;·&nbsp;
+    No tracking &nbsp;·&nbsp;
+    No ads &nbsp;·&nbsp;
+    <a href="#">Report an error</a>
+  </sub>
 </div>
