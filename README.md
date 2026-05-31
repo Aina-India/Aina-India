@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cockroach.png" width="130" alt="May 2026">
+<img src="cockroach-flag.png" width="130" alt="May 2026">
 
 <br>
 
