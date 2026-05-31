@@ -2,9 +2,9 @@
 
 <img src="cockroach-flag.png" width="90" alt="May 2026">
 
-<br><br>
+# AINA INDIA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E8650A&center=true&vCenter=true&width=720&lines=Public+data.+Made+public.;India%27s+inequality+in+numbers%2C+not+headlines;Income+%C2%B7+Taxation+%C2%B7+RTI+%C2%B7+Accountability;Top+1%25+earns+more+than+the+bottom+500+million" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=1000&color=8b949e&center=true&vCenter=true&width=720&lines=Public+data.+Made+public.;India%27s+inequality+in+numbers%2C+not+headlines;Income+%C2%B7+Taxation+%C2%B7+RTI+%C2%B7+Accountability;Top+1%25+earns+more+than+the+bottom+500+million" alt="Typing SVG">
 
 <br>
 
