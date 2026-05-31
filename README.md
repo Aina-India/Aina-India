@@ -40,7 +40,7 @@ Interactive dashboard — income distribution by percentile, who actually pays t
 ![](https://img.shields.io/badge/Union_Budget-2025–26-e8650a?style=flat-square)
 ![](https://img.shields.io/badge/IT_Dept-Statistics-2ea043?style=flat-square)
 
-**[→ View site](#)** &nbsp; **[→ Data source](#)**
+**[→ View site](https://aina-india.github.io/shape-of-inequality/)** &nbsp; **[→ Code](https://github.com/Aina-India/shape-of-inequality)**
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@ No account. No storage. No data leaves your browser.
 ![](https://img.shields.io/badge/Fee-₹10-e8650a?style=flat-square)
 ![](https://img.shields.io/badge/Data_stored-None-2ea043?style=flat-square)
 
-**[→ Install](#)** &nbsp; **[→ Source](#)**
+**[→ Install](#)** &nbsp; **[→ Code](#)**
 
 </td>
 </tr>
